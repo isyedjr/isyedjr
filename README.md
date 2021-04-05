@@ -14,7 +14,9 @@ No Activity tracked this Week
 # Projects
 I'm currently working on "Open Source Microscope Mk 1".
 I've also contributed to https://github.com/walkerjbuckle/COVID-CT-Starlight-Saviors.
- 
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/imaad-syed-4048b11a9)
+<a href="mailto:isyedjr@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 <!--
 **isyedjr/isyedjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
