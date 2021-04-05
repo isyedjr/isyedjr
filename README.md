@@ -13,7 +13,7 @@ No Activity tracked this Week
 
 # Projects
 ### Main
--Open Source Microscope Mk 1
+- Open Source Microscope Mk 1
 
 ### Contributor
 - https://github.com/walkerjbuckle/COVID-CT-Starlight-Saviors.
