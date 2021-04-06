@@ -4,12 +4,6 @@ I develop open source hardware (with software).
 
 ![Imaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyedjr)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyedjr)](https://github.com/isyedjr/github-readme-stats)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=isyedjr)](https://github.com/isyedjr)
 
 # Projects
 ### Main
