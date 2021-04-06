@@ -6,7 +6,7 @@ I develop open source hardware (with software).
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyedjr)](https://github.com/isyedjr/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Activity
 ```
 <!--END_SECTION:waka-->
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=isyedjr)](https://github.com/isyedjr)
