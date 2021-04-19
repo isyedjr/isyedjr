@@ -7,7 +7,8 @@ I develop open source hardware (with software).
 
 # Projects
 ### Main
-- Open Source Microscope Mk 1
+- OS-M (Open Source Microscope) Mk 1
+- OS-BL (Open Source Biomedical Laser) Mk 1
 
 ### Contributor
 - https://github.com/walkerjbuckle/COVID-CT-Starlight-Saviors.
