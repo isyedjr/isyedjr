@@ -6,7 +6,6 @@
 # Projects
 ### Main
 - OS-M (Open Source Microscope) Mk 1 (Active)
-- OS-BL (Open Source Biomedical Laser) Mk 1 (In-progress)
 
 ### Contributor
 - https://github.com/walkerjbuckle/COVID-CT-Starlight-Saviors.
