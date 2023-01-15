@@ -1,6 +1,4 @@
-### Hello! I'm Imaad Syed
-
-I develop open source hardware (with software). 
+### Hello!
 
 ![Imaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyedjr)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyedjr)](https://github.com/isyedjr/github-readme-stats)
