@@ -1,4 +1,6 @@
-### Hello!
+### Imaad Syed
+
+Electrical Engineering Undergrad at UMD
 
 ![Imaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyedjr)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyedjr)](https://github.com/isyedjr/github-readme-stats)
