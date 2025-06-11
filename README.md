@@ -1,6 +1,6 @@
 ### Imaad A. Syed
 
-Electrical Engineering Undergrad, Minor in Nuclear Engineering at UMD
+B.S. Electrical Engineering, University of Maryland, College Park, 2025
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyedjr)](https://github.com/isyedjr/github-readme-stats)
 
